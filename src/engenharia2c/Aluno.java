@@ -7,7 +7,6 @@ String RA;
 
 public Aluno(String nome) {
 	super();
-	
 	this.RA = nome;
 	
 }
