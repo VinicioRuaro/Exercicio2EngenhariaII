@@ -7,7 +7,7 @@ String RA;
 
 public Aluno(String nome) {
 	super();
-	//precisa ir no banco e criar o aluno
+	
 	this.RA = nome;
 	
 }
